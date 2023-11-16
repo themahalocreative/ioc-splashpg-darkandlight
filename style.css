@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+}
+
+body * { 
+    border-color: black;
+    border-width: 1px;
+
+}
+.pb-60p {
+    padding-bottom: 60%;
+}
+.pb-50p {
+    padding-bottom: 50%;
+}
+.pb-100p {
+    padding-bottom: 100%;
+}
